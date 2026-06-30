@@ -26,8 +26,9 @@ Melalui website ini pelanggan dapat melihat informasi usaha, galeri hasil foto, 
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
-- Netlify (Deployment)
+- Bootstrap5
+- Bootstrap Icons
+- Google Fonts
 
 
 
@@ -41,12 +42,6 @@ Melalui website ini pelanggan dapat melihat informasi usaha, galeri hasil foto, 
 ---
 atau Buka file: index.html
 langsung menggunakan browser.
-
-
-
-## Link Website
-
-https://snapmoophotoboot.netlify.app/
 
 
 
